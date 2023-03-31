@@ -20,12 +20,20 @@ If you are having trouble finding it, go to: https://github.com/Sternboy/SafeHan
 ======================================================================================
 INSTALLATION GUIDE (As of 3/31/23)
 ======================================================================================
-
-
-
-
-
-
+1) Navigate to the Github page for the app (on your phone): https://github.com/Sternboy/SafeHands
+2) In your web browser, use the setting that turns the page into the Desktop view
+3) Click the green Code button and download the file as a zip
+4) Use an app to unzip the file (such as Files by Google)
+	4a) If you downloading Files by Google, open the app and click the downloads folder
+	4b) You should see the .zip downloaded from Github. Click it
+	4c) Click extract
+5) Run the extracted .apk file
+	5a) You may need to change permissions for Files by Google to install apps
+	5b) You may see warnings from Google Play about not recognizing the app
+	5c) Click install anyway
+	5d) Don't send the file to Google Play (not sure what Google does with it, but it isn't needed if you trust me)
+6) The app should be installed and so you can just run it like any other app and enjoy!
+7) (optional) You can now remove permissions for Files by Google if you don't want it to have permissions
 ======================================================================================
 PRIVACY POLICY
 ======================================================================================
