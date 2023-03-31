@@ -13,6 +13,10 @@ I'm not a cyber security expert. The app is USE AT YOUR OWN RISK, and comes
 as-is. I make no guarantees about the quality or security of the application.
 It is merely a demonstration of some of the skills I have acquired recently.
 Please enjoy.
+
+For more information/help with understanding the layout, please see the wiki page on Github.
+If you are having trouble finding it, go to: https://github.com/Sternboy/SafeHands/wiki
+
 ======================================================================================
 INSTALLATION GUIDE (As of 3/31/23)
 ======================================================================================
